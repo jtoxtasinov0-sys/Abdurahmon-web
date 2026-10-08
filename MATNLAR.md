@@ -5,14 +5,9 @@ Matnni shu yerda o'zgartirib menga yuboring yoki `index.html` ichidan Ctrl+F bil
 ## Blok 1: Hero
 - Logo: Abdurahmon.AI
 - Menyu: Bosh sahifa · Xizmatlar · Men haqimda · Ishlarim · Aloqa
-- Belgi: AI mutaxassisi
-- Sarlavha: Ertangi Kun Texnologiyalari Bugun: / AI-Powered Veb-Saytlar va Mini App'lar
-- Qisqa matn: Sayt va Telegram bot — AI yordamida tez, sifatli va zamonaviy.
-- Tugmalar: Birga ishlaymiz → · Kanalga o'tish
-- Statistika: 16.8K+ — ko'rishlar · 100% — natija
-- Rasm: images/abdurahmon-hero.webp (foni olib tashlangan), orqasida katta "ABDURAHMON" yozuvi
+- Katta ism (sarlavha): ABDURAHMON — orqasida rasm: images/abdurahmon-hero.webp
 - Aylanuvchi belgi: AI MUTAXASSISI • SAYT • BOT
-- Pastki qator: Landing · Portfolio · Internet-do'kon · Telegram bot · AI javoblar · To'lov · Admin panel · SEO
+- Tugmalar: Birga ishlaymiz → · Kanalga o'tish (@abdurahmm0n)
 
 ## Blok 2: Og'riq va yechim
 - Muammo: Biznesingizda mijozlarni jalb qilish, buyurtmalarni qabul qilish va kontent yaratishga ko'p vaqt va resurs sarflanyaptimi?
