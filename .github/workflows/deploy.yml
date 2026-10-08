@@ -1,0 +1,25 @@
+# master branch'ga har bir push'dan keyin saytni gh-pages branch'iga nusxalaydi.
+# GitHub Pages gh-pages'dan ishlaydi, shuning uchun sayt avtomatik yangilanadi.
+name: Saytni yangilash
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: gh-pages branch'ini yangilash
+        run: git push --force origin HEAD:gh-pages
