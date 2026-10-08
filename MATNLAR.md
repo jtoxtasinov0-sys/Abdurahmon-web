@@ -10,7 +10,8 @@ Matnni shu yerda o'zgartirib menga yuboring yoki `index.html` ichidan Ctrl+F bil
 - Qisqa matn: Sayt va Telegram bot — AI yordamida tez, sifatli va zamonaviy.
 - Tugmalar: Birga ishlaymiz → · Kanalga o'tish
 - Statistika: 16.8K+ — ko'rishlar · 100% — natija
-- 3D robot: skroll qilganda 360° aylanadi (sozlamalar: js/robot.js)
+- Rasm: images/abdurahmon-hero.webp (foni olib tashlangan), orqasida katta "ABDURAHMON" yozuvi
+- Aylanuvchi belgi: AI MUTAXASSISI • SAYT • BOT
 - Pastki qator: Landing · Portfolio · Internet-do'kon · Telegram bot · AI javoblar · To'lov · Admin panel · SEO
 
 ## Blok 2: Og'riq va yechim
