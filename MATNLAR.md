@@ -42,7 +42,6 @@ Matnni shu yerda o'zgartirib menga yuboring yoki `index.html` ichidan Ctrl+F bil
 - Muallif haqida:
   - Sarlavha: Koreyada zavod ishchisidan AI mutaxassisigacha bo'lgan yo'l
   - Matn: Og'ir mehnatdan so'ng AI'ni o'rganib, bugun zamonaviy IT-yechimlar yarataman.
-  - Rasm yorliqlari: AI mutaxassisi — Janubiy Koreya · Zavoddan — AI gacha bo'lgan yo'l
 
 ## Blok 5: Harakatga chorlash
 - Sarlavha: Loyihangizni birga boshlaymiz!
