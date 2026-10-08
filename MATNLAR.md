@@ -9,9 +9,9 @@ Matnni shu yerda o'zgartirib menga yuboring yoki `index.html` ichidan Ctrl+F bil
 - Sarlavha: AI bilan biznesingizni / keyingi bosqichga olib chiqaman
 - Qisqa matn: Sayt va Telegram bot — AI yordamida tez, sifatli va zamonaviy.
 - Tugmalar: Birga ishlaymiz → · Kanalga o'tish
-- Statistika: 16.8K+ — ko'rishlar · 2 — yo'nalish · 100% — natija
-- Rasm yonidagi kartalar: Sayt yasash · Telegram bot
-- "So'nggi ishim": Online do'kon sayti
+- Statistika: 16.8K+ — ko'rishlar · 100% — natija
+- 3D robot: skroll qilganda 360° aylanadi (sozlamalar: js/robot.js)
+- Pastki qator: Landing · Portfolio · Internet-do'kon · Telegram bot · AI javoblar · To'lov · Admin panel · SEO
 
 ## Blok 2: Og'riq va yechim
 - Muammo: Biznesingizda mijozlarni jalb qilish, buyurtmalarni qabul qilish va kontent yaratishga ko'p vaqt va resurs sarflanyaptimi?
@@ -20,6 +20,7 @@ Matnni shu yerda o'zgartirib menga yuboring yoki `index.html` ichidan Ctrl+F bil
   - Telegram bot: 24/7 ishlaydigan, buyurtma va to'lovlarni avtomatik qabul qiluvchi aqlli yordamchi.
 
 ## Blok 3: Xizmatlar va ishlash tartibi
+- Sarlavha: Biznesingiz uchun ikki kuchli yechim
 - Saytlar: Landing · Portfolio · Internet-do'kon · SEO va mobilga mos
 - Botlar: Buyurtma · To'lov · AI javoblar · Admin panel
 - Qanday ishlaymiz?
