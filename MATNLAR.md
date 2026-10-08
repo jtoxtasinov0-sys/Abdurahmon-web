@@ -6,7 +6,7 @@ Matnni shu yerda o'zgartirib menga yuboring yoki `index.html` ichidan Ctrl+F bil
 - Logo: Abdurahmon.AI
 - Menyu: Bosh sahifa · Xizmatlar · Men haqimda · Ishlarim · Aloqa
 - Belgi: AI mutaxassisi
-- Sarlavha: AI bilan biznesingizni / keyingi bosqichga olib chiqaman
+- Sarlavha: Ertangi Kun Texnologiyalari Bugun: / AI-Powered Veb-Saytlar va Mini App'lar
 - Qisqa matn: Sayt va Telegram bot — AI yordamida tez, sifatli va zamonaviy.
 - Tugmalar: Birga ishlaymiz → · Kanalga o'tish
 - Statistika: 16.8K+ — ko'rishlar · 100% — natija
